@@ -1,6 +1,6 @@
 # /****************/
-# Mã sinh viên: <MSSV>
-# Họ tên: <HỌ VÀ TÊN>
+# Họ và Tên: Phạm Anh Tú
+# MSSV: 202419007
 # /****************/
 
 """Lớp quản lý danh sách nhân sự của một kỳ lương."""
