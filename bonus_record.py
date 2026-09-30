@@ -1,6 +1,6 @@
 # /****************/
-# Mã sinh viên: <MSSV>
-# Họ tên: <HỌ VÀ TÊN>
+# Họ và Tên: Phạm Anh Tú
+# MSSV: 202419007
 # /****************/
 
 """Cấu trúc dữ liệu lưu một lần ghi nhận thưởng."""
