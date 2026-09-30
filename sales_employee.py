@@ -1,6 +1,6 @@
 # /****************/
-# Mã sinh viên: <MSSV>
-# Họ tên: <HỌ VÀ TÊN>
+# Họ và Tên: Phạm Anh Tú
+# MSSV: 202419007
 # /****************/
 
 """Nhân viên kinh doanh hưởng lương cơ bản và hoa hồng."""
