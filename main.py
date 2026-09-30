@@ -1,6 +1,6 @@
 # /****************/
-# Mã sinh viên: <MSSV>
-# Họ tên: <HỌ VÀ TÊN>
+# Họ và Tên: Phạm Anh Tú
+# MSSV: 202419007
 # /****************/
 
 """Chương trình minh họa theo đúng dữ liệu kiểm thử của đề Lab W04."""
